@@ -1,0 +1,1 @@
+Código usado em um trabalho da disciplina de análise de sistemas elétricos.
